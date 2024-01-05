@@ -1,0 +1,5 @@
+javac Javabasics.java 
+Through this you can compile any java file 
+
+java Javabasics.java
+Through this you can run any java file 
